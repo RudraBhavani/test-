@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    margin: 100px;
+    padding: 30px;
+    width: 400px;
+    background-color: cadetblue;
+}
+form label{
+    display:block ;
+    margin-bottom: 5px;
+    color: white;
+}
+form input{
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+form button{
+    outline: none;
+    border: none;
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: coral;
+    color: white;
+}

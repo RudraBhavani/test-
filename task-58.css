@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    margin: 100px auto;
+    padding: 30px;
+    width: 400px;
+    background-color: cadetblue;
+}
+form label{
+    display: inline;
+    margin-bottom: 5px;
+
+}
+form input{
+    width: 50%;
+    outline: none;
+    border: 5px;
+    padding: 10px 10px;
+    border-radius: 2px;
+    margin-bottom: 20px
+    ;
+}

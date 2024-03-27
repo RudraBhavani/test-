@@ -1,0 +1,15 @@
+
+h1{
+    display: inline;
+}
+p{
+    display: inline;
+}
+a{
+    display: block;
+}
+span{
+    display: inline-block;
+    margin-top: 200px;
+
+}

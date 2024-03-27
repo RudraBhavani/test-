@@ -1,0 +1,13 @@
+
+img{
+    width: 100%;
+    border: solid crimson;
+    opacity: 1;
+}
+.image{
+    width: 500px;
+        height: auto;
+}
+.image img{
+    width: 100%;
+}

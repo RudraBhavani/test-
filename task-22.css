@@ -1,0 +1,20 @@
+
+
+.parent{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 10px;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 10px;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color:gold;
+    margin: 10px;
+}

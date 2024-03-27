@@ -1,0 +1,13 @@
+
+
+h1{
+    width: 400px;
+    height: 400px;
+    background-image: url(image.jpg);
+    border-image: 4px solid black;
+    background-image: inline;
+    background-repeat: no-repeat;
+    p{
+        display: block;
+    }
+}

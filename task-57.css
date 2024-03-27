@@ -1,0 +1,10 @@
+
+
+button{
+    border: none;
+    outline: none;
+    padding: 15px;
+    background-color: chartreuse;
+    font-size: 20px;
+    color: rgb(145, 77, 77);
+}

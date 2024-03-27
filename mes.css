@@ -1,0 +1,28 @@
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+}
+.box p{
+    font-size: 25px;
+}
+.box2{
+width: 500px;
+height: 500px;
+background-color: blue;
+}
+.box2 .hello{
+    font-size: 5rem;
+}
+.box3{
+    width: 100%;
+    height: 100px;
+    background-color: brown;
+}
+.box4{
+    width: 100vh;
+    height: 100vh;
+    background-color: aqua;
+}

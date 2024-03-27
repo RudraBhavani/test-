@@ -1,0 +1,13 @@
+
+
+button{
+    border: none;
+    outline: none;
+    background-color: cadetblue;
+    font-size: 15px;
+    color: blanchedalmond;
+    width: 100px;
+    height: auto;
+    border-radius: 2px  ;
+
+}
